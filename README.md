@@ -1,2 +1,2 @@
 # Color_Changer
-A simple program that change colors by click by using DOM
+A simple program that change colors using DOM
